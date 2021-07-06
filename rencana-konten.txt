@@ -1,0 +1,5 @@
+Rencana konten belajar pemrograman android
+-pengenalan android studio
+-activity
+-intent
+-views dan view group
