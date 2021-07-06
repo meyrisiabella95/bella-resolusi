@@ -3,5 +3,5 @@ bella resolusi
 -olahraga setiap pagi
 -makan teratur
 -belajar koding  maksimal 3 jam sehari 
--tidur teratur
+-membuat forum belajar program android
 -lebih konsisten belajar pemrograman android studio
